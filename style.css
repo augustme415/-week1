@@ -133,3 +133,10 @@ button:hover{
 	}
 }
 
+@media screen and (max-width:480px) {
+	header p{
+		font-size: 9px;
+	}
+}
+
+
